@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ? folow on linkendin profile 
+- https://www.linkedin.com/in/vijay-kaushik-234773b6/
 
 <!---
 mrvijaykaushik/mrvijaykaushik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
